@@ -9,4 +9,4 @@ Limpieza de Datos (Data Cleaning) -
 Análisis Exploratorio de Datos (EDA) -
 Ingeniería de Características (Feature Engineering) -
 Desarrollo del Modelo de Machine Learning -
-Resultados y Conclusiones -
+Resultados y Conclusiones 
