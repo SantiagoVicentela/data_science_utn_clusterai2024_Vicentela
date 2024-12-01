@@ -4,9 +4,9 @@ Este análisis se desarrolló como trabajo final en el marco de la materia Cienc
 
 El trabajo incluyó un flujo de trabajo completo que abarcó las etapas de preparación, limpieza, análisis y modelado, detallando cada paso del proceso. A continuación, se presenta un resumen de las etapas clave, enfatizando la estructura del pipeline de Machine Learning implementado:
 
-Lectura del Dataset
-Limpieza de Datos (Data Cleaning)
-Análisis Exploratorio de Datos (EDA)
-Ingeniería de Características (Feature Engineering)
-Desarrollo del Modelo de Machine Learning
-Resultados y Conclusiones
+Lectura del Dataset -
+Limpieza de Datos (Data Cleaning) -
+Análisis Exploratorio de Datos (EDA) -
+Ingeniería de Características (Feature Engineering) -
+Desarrollo del Modelo de Machine Learning -
+Resultados y Conclusiones -
