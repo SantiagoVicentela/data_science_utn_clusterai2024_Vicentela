@@ -7,6 +7,6 @@ El trabajo incluyó un flujo de trabajo completo que abarcó las etapas de prepa
 Lectura del Dataset -
 Limpieza de Datos (Data Cleaning) -
 Análisis Exploratorio de Datos (EDA) -
-Ingeniería de Características (Feature Engineering) -
+Ingeniería de Atributos (Feature Engineering) -
 Desarrollo del Modelo de Machine Learning -
 Resultados y Conclusiones 
